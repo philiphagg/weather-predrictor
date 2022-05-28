@@ -1,0 +1,43 @@
+
+.tilediv{
+    background-image: linear-gradient(to bottom right, rgb(2, 48, 71), rgba(33, 158, 188));
+    width: 150px;
+    margin: 25px;
+    padding: 25px;
+    height: 130px;
+    border-radius: 25px;
+    box-shadow: -10px 10px 10px rgb(51, 51, 51) ;
+}
+
+.content-holder{
+    height: 110px;
+    align-self: center;
+}
+
+.date {
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    color:aliceblue;
+    padding-bottom: 10px;
+}
+
+.weathertile-symbol{
+    margin-left: 25px;
+}
+
+
+.temperature-holder{
+    color:aliceblue;
+    float:left;
+    font-size: 20px;
+    padding-top: 7px;
+
+}
+.symbol-holder{
+    color:aliceblue;
+    float:left;
+    font-size: 20px;
+    padding-top: 7px;
+
+}

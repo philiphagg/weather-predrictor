@@ -1,0 +1,54 @@
+.detailContainer {
+    opacity: 0.8;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    z-index: 1000;
+    overflow: scroll;
+}
+
+.statistics {
+    text-align: center;
+}
+
+h1 {
+    color: #111;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.box1 {
+    height: 50%;
+    width: 50%;
+}
+
+.box2 {
+    height: 50%;
+    width: 50%;
+}
+
+.box3 {
+    height: 50%;
+    width: 50%;
+}
+
+.box4 {
+    height: 50%;
+    width: 50%;
+}
+
+.row1 {
+    padding-top: 5%;
+    display: flex;
+}
+
+.row2 {
+    padding-top: 5%;
+    display: flex;
+    padding-bottom: 100px;
+}
